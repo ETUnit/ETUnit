@@ -31,7 +31,7 @@ End Sub
 
 ' Main logic
 Dim username, password, title
-title = "Admin Authentication Required"
+title = "Administrator Authentication Required !"
 
 Do
     username = InputBox("Enter your Admin Username:", title)
